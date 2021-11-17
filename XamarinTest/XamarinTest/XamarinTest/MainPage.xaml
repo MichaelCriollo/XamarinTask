@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinTest.MainPage">
+
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center">
+        <Label Text="Operaciones"/>
+        <Label Text="Seleccione la operacion"/>
+        <Picker x:Name="pickerOperacion" 
+                ItemsSource="{Binding ListOperaciones}"
+                ItemDisplayBinding="{Binding Value}"/>
+        <Entry Placeholder="Numero 1" x:Name="numero1" Keyboard="Numeric"/>
+        <Entry Placeholder="Numero 2" x:Name="numero2" Keyboard="Numeric"/>
+        <Button Text="Enviar" Clicked="Clicked"/>
+
+        <Entry Placeholder="Resultado" x:Name="resultado" IsEnabled="False"/>
+        <Button Text="Ver Historial" Clicked="clickedHistory"/>
+    </StackLayout>
+
+</ContentPage>

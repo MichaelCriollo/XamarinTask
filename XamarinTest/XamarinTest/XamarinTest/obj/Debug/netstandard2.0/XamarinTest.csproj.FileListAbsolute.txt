@@ -1,0 +1,16 @@
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.deps.json
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.dll
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\ref\XamarinTest.dll
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.pdb
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.csproj.AssemblyReference.cache
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.AssemblyInfoInputs.cache
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.AssemblyInfo.cs
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.csproj.CoreCompileInputs.cache
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.dll
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\ref\XamarinTest.dll
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.pdb
+C:\XamarinTest\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\Historico.xaml.g.cs
